@@ -21,6 +21,6 @@ public class Main {
 		System.out.println(Member.sum(10,30));
 		System.out.println(Member.sum(10,30,20));
 		System.out.println(Member.sum(10));
-	}
-
+		system.out.println(Member.sum(40,50,60,70));
+		}
 }
